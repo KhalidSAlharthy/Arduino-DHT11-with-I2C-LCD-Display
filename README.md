@@ -27,8 +27,8 @@ This is a simple Arduino project that reads temperature and humidity from a DHT1
 - SCL → A5 on  Arduino
 
 Breadboard 
-- - → GND on Arduino
-- + → 5V on Arduino 
+- (-) → GND on Arduino
+- (+) → 5V on Arduino 
 
 > 💡 Note: SDA/SCL pins may vary depending on your Arduino board.
 
