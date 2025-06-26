@@ -42,8 +42,11 @@ Install these libraries via the Arduino Library Manager:
 - `Adafruit Unified Sensor`  
 - `LiquidCrystal_I2C` by Frank de Brabander  
 
+---
 
 Circuit Diagram 
+
+
 ![Screenshot 2025-06-26 151742](https://github.com/user-attachments/assets/13b005d7-01f4-42c6-9e71-53811f634b69)
 ![IMG_3008](https://github.com/user-attachments/assets/5891d636-c9ed-4a88-95f0-055a8f9fc8fe)
 
