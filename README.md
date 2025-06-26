@@ -1,4 +1,4 @@
-# 🌡️ Arduino DHT11 with I2C LCD
+ 🌡️ Arduino DHT11 with I2C LCD
 
 This is a simple Arduino project that reads temperature and humidity from a DHT11 sensor and displays the data on a 16x2 I2C LCD.
 
