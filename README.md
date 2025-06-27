@@ -44,7 +44,7 @@ Install these libraries via the Arduino Library Manager:
 
 ---
 
-Circuit Diagram 
+⚡️Circuit Diagram 
 
 
 ![Screenshot 2025-06-26 151742](https://github.com/user-attachments/assets/13b005d7-01f4-42c6-9e71-53811f634b69)
