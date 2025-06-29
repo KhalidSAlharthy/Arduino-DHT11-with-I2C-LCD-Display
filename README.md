@@ -32,7 +32,7 @@ Breadboard
 
 > 💡 Note: SDA/SCL pins may vary depending on your Arduino board.
 
-
+---
 
 ## 📦 Libraries Required
 
